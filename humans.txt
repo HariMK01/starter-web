@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Harikesh Kumar  harikeshmk@abc.com 
 
 # THANKS
 
